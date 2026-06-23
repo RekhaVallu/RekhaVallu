@@ -85,7 +85,7 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence & M
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rekhavallu/">
+  <a href="https://linkedin.com/in/[https://www.linkedin.com/in/rekhavallu](https://www.linkedin.com/in/rekhavallu/)/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
